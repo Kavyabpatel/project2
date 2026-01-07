@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system.
-Created by Kavya Patel! i love coding.
+Created by Kavya Patel.
